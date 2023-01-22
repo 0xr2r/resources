@@ -1,10 +1,11 @@
 learning-resources
 
+![wis](https://user-images.githubusercontent.com/72355033/213926077-c062531d-d827-4d9d-bc83-70f9316f7990.PNG)
 
 
 
 
-## Certifications
+### Certifications
 
 - [OSWE](https://www.offensive-security.com/awae-oswe/)
 - [OSWA](https://www.offensive-security.com/web200-oswa/)
@@ -15,8 +16,7 @@ learning-resources
 - [HTB CBBH](https://academy.hackthebox.com/preview/certifications/htb-certified-bug-bounty-hunter)
 - [BSCP](https://portswigger.net/web-security/certification)
 
-==========================================================================================================
-## Learning platforms
+### Learning platforms
 
 
 - [PentesterLab](https://pentesterlab.com/)
@@ -60,5 +60,5 @@ learning-resources
   - [SEC522: Defending Web Applications Security Essentials](https://www.sans.org/cyber-security-courses/defending-web-applications-security-essentials/)
   - [SEC542: Web App Penetration Testing and Ethical Hacking](https://www.sans.org/cyber-security-courses/web-app-penetration-testing-ethical-hacking/)
   - [SEC642: Advanced Web App Penetration Testing, Ethical Hacking, and Exploitation Techniques](https://www.sans.org/cyber-security-courses/advanced-web-app-penetration-testing-ethical-hacking/)
-  ================================================================================================================================================================================================================
+  
   
